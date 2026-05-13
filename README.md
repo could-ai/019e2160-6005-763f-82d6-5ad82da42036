@@ -1,6 +1,6 @@
-# Truyện Thanh Xuân: Khánh và Ngọc
+# Truyện Thanh Xuân Kịch Tính: Khánh và Ngọc
 
-Một ứng dụng Flutter nhỏ kể về câu chuyện thanh xuân cấp 3 của hai nhân vật Khánh và Ngọc.
+Một ứng dụng Flutter nhỏ kể về câu chuyện thanh xuân cấp 3 đầy mâu thuẫn, kịch tính và những ngã rẽ bất ngờ của hai nhân vật Khánh và Ngọc.
 
 ## Tính năng
 - Đọc truyện ngắn với giao diện thẻ (card) trực quan.

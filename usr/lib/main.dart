@@ -30,19 +30,19 @@ class StoryScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const String story = '''
-Mùa thu năm ấy, sân trường cấp 3 ngập tràn lá vàng rơi. Khánh, một nam sinh ít nói với niềm đam mê nhiếp ảnh mãnh liệt, luôn mang theo chiếc máy ảnh cơ cũ kỹ mọi lúc mọi nơi. Ở chiều ngược lại, Ngọc là cô lớp trưởng năng động, tươi sáng như ánh mặt trời, luôn thu hút mọi ánh nhìn bằng nụ cười rạng rỡ.
+Sân trường cấp 3 năm ấy không chỉ có nắng vàng và những cơn gió mát rượi, mà còn là nơi chứng kiến cơn bão lòng dữ dội nhất tuổi thanh xuân của Khánh và Ngọc.
 
-Họ học cùng lớp nhưng lại như hai đường thẳng song song, cho đến một buổi chiều ở phòng sinh hoạt câu lạc bộ. Ngọc đang đau đầu tìm người chụp ảnh cho sự kiện sắp tới của trường, còn Khánh thì đang lặng lẽ sắp xếp lại những bức hình cậu vừa rửa.
+Ngọc - lớp trưởng ưu tú, xinh đẹp và luôn là niềm tự hào của giáo viên. Khánh - nam sinh cá biệt ngồi bàn cuối, ánh mắt luôn sắc lạnh nhưng lại giấu một trái tim cuồng nhiệt. Giữa họ là một bí mật không ai hay biết: những buổi chiều muộn cùng nhau trốn học trên sân thượng, nơi Ngọc gỡ bỏ lớp mặt nạ hoàn hảo để tựa vai Khánh mà khóc vì áp lực gia đình.
 
-"Khánh ơi, cậu giúp tớ chụp ảnh cho lễ hội mùa thu được không?" - Ngọc cất tiếng, giọng nói trong trẻo phá vỡ sự im lặng của căn phòng.
+Nhưng bí mật ấy đã bị xé toạc khi Phong - một nam sinh chuyển trường mang gia thế khủng - xuất hiện. Phong theo đuổi Ngọc một cách phô trương, khiến cả trường chú ý. Ngọc, vì sợ bố mẹ biết chuyện và muốn dập tắt mọi lời đồn thổi ác ý, đã chủ động tạo khoảng cách với Khánh. 
 
-Khánh ngước lên, bắt gặp ánh mắt đầy hy vọng của cô bạn. Cậu gật đầu nhẹ. Đó là sự khởi đầu cho một tình bạn đẹp đẽ.
+Đỉnh điểm của cơn bão là ngày cuốn sổ phác họa của Khánh bị ai đó cố tình lấy cắp và truyền tay nhau khắp lớp. Trong đó tràn ngập hình bóng Ngọc với những dòng ghi chú đầy si tình. Tiếng cười cợt, những ánh mắt chế giễu bủa vây Khánh. Khi Khánh nhìn về phía Ngọc, mong chờ một sự bảo vệ, thì cô lại run rẩy quay mặt đi, cắn chặt môi nói trước đám đông: "Tớ không liên quan, là cậu ấy tự ảo tưởng thôi."
 
-Những ngày sau đó, người ta thường thấy một cậu bạn cao gầy, trầm tính đi theo sau một cô gái lanh lợi. Ngọc kể cho Khánh nghe về những ước mơ rực rỡ, còn Khánh qua lăng kính máy ảnh, lưu giữ lại mọi khoảnh khắc thanh xuân của Ngọc. 
+Câu nói ấy như nhát dao đâm nát tự tôn của Khánh. Chiều hôm đó, Khánh lao vào đánh nhau thừa sống thiếu chết với Phong giữa sân trường chỉ vì nghe Phong buông lời xúc phạm Ngọc. Máu rơi, nước mắt hòa lẫn. Khánh nhận án đình chỉ học.
 
-Dưới gốc phượng già, trên hành lang ngập nắng, hay những buổi chiều muộn học bài trong thư viện, bóng dáng hai người dần trở nên không thể tách rời. Họ cùng nhau trải qua những bài kiểm tra khó nhằn, những lần bị thầy cô nhắc nhở, và cả những rung động tinh khôi của tuổi mới lớn.
+Ngày Khánh dọn đồ rời trường chuyển đi nơi khác, Ngọc chạy ráo riết dưới cơn mưa tầm tã tìm cậu ở bến xe buýt. Cô ôm chầm lấy lưng Khánh, khóc nức nở xin lỗi, gỡ bỏ mọi sự kiêu hãnh và lớp vỏ bọc hoàn hảo. Nhưng Khánh chỉ lặng lẽ gỡ tay cô ra, mỉm cười xót xa: "Lớp trưởng, cậu phải luôn giữ được nụ cười hoàn hảo ấy nhé. Đừng để ai thấy cậu khóc nữa."
 
-Năm tháng cấp 3 trôi qua nhanh như một cái chớp mắt, để lại trong tim Khánh và Ngọc những kỷ niệm vô giá, khắc sâu thành bức tranh thanh xuân rực rỡ nhất mà chiếc máy ảnh của Khánh từng ghi lại.
+Khánh bước lên chuyến xe cuối ngày, bỏ lại Ngọc gục ngã giữa màn mưa. Thanh xuân của họ là một bản nhạc đầy cao trào, rực rỡ nhưng vỡ vụn, để lại một vết sẹo chẳng thể nào phai.
 ''';
 
     return Scaffold(
